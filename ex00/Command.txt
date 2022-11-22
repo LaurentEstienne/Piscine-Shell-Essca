@@ -1,0 +1,215 @@
+  230  mv x360_callofduty3
+  231  mv x360_callfoduty3.jpg ./Xbox_360
+  232  mkdir Dreamcast
+  233  mv dc_jetsetradio_eu_front.jpg ./Dreamcast
+  234  mv dc_shenmue_eu.jpg ./Dreamcast
+  235  mv PS4 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sony/
+  236  mv PS5 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sony/consoles/Ps5
+  237  mv Gamecube ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  238  mv Game_Boy ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Nintendo
+  239  mv Xbox/ ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  240  mv Xbox_360 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  241  mv Dreamcast ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sega
+  242  cd ..
+  243  cd Piscine-Shell-Essca
+  244  Touch bonj
+   58  cd Programmation\ approfondie
+   59  touch ~/.ssh/config
+   60  cd ESSCA-git
+   61  touch ~/.ssh/config
+   62  ssh-add -K ~/.ssh/id_ed25519
+   63  ls -al ~/.ssh
+   64  pbcopy < ~/.ssh/id_ed25519.pub
+   65  git remote add origin <REMOTE_URL>
+   66  git remote add origin < git@github.com:LaurentEstienne/HelloWorld.gitL>
+   67  git remote add origin <git@github.com:LaurentEstienne/origin.giL>
+   68  git remote add origin git@github.com:LaurentEstienne/origin.git
+   69  git branch -M main
+   70  git push -u origin main
+   71  git push origin main
+   72  1git pull origin main
+   73  1git clone git@github.com:LaurentEstienne/HelloWorld.git
+   74  1git clone <git@github.com:LaurentEstienne/HelloWorld.git>\n
+   75  git clone git@github.com:LaurentEstienne/HelloWorld.git\n
+   76  echo "# origin" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:LaurentEstienne/origin.git\ngit push -u origin main
+   77  git remota add HelloWorld git@github.com:LaurentEstienne/HelloWorld.git
+   78  git remote add HelloWorld git@github.com:LaurentEstienne/HelloWorld.git
+   79  git clone git@github.com:LaurentEstienne/HelloWorld.git\n
+   80  cd/
+   81  cd
+   82  git remote add HelloWorld git@github.com:LaurentEstienne/HelloWorld.git
+   83  git clone git@github.com:LaurentEstienne/HelloWorld.git\n
+   84  cd/git
+   85  cd/ Documents
+   86  cd/ Documents
+   87  cd/ Documents/
+   88  cd/ 
+   89  cd/ Documents
+   90  cd ESSCA-git
+   91  cd/ Documents
+   92  cd/ Documents
+   93  cd/ Documents
+   94  cd/ Desktop
+   95  cd ~
+   96  cd/ Documents
+   97  cd/ 
+   98  cd/ Documents
+   99  cd/ "Documents/"
+  100  cd/ "Documents/"
+  101  cd/ "Documents/"
+  102  cd ESSCA-git
+  103  cd/ "Documents/"
+  104  git init 
+  105  git push
+  106  echo "# gpush" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:LaurentEstienne/gpush.git\ngit push -u origin main
+  107  git remote add origin git@github.com:LaurentEstienne/entrainementrepo.git\ngit branch -M main\ngit push -u origin main
+  108  /Volumes/Adobe\ Lightroom\ Claccic\ CC\ 2019\ v8.4.1/Extra/rhash ; exit;
+  109  attr -cr /Volumes/Adobe\ Lightroom\ Claccic\ CC\ 2019\ v8.4.1/Extra/rhash 
+  110  /Volumes/Adobe\ Lightroom\ Claccic\ CC\ 2019\ v8.4.1/Extra/rhash 
+  111  xattr -cr /Volumes/Adobe\ Lightroom\ Claccic\ CC\ 2019\ v8.4.1/Extra/rhash  
+  112  ip config
+  113  ipconfig
+  114  cmd
+  115  ipconfig
+  116  ifcongig
+  117  ifconfig
+  118  clear
+  119  man ls
+  120  cd ..
+  121  cd.
+  122  cd .
+  123  cd Documents
+  124  cd ..
+  125  cd Documents
+  126  cd 
+  127  ls
+  128  cd Documents
+  129  ls
+  130  cd ESSCA
+  131  ls
+  132  cd 3Ièm\ 
+  133  ls
+  134  cd Programmation\ approfondie
+  135  mkdir covers
+  136  cd covers
+  137  mkdir Constructeurs
+  138  cd Constructeurs
+  139  mkdir Sony
+  140  mkdir Nintendo
+  141  mkdir Microsoft
+  142  mkdir Sega
+  143  cd Sony
+  144  mkdir consoles
+  145  mkdir Ps4
+  146  mkdir Ps5
+  147  cd ..
+  148  cd ..
+  149  CD..
+  150  cd ..
+  151  cd ..
+  152  cd ..
+  153  cd ..
+  154  cd ..
+  155  cd Downloads
+  156  cd covers/
+  157  ls
+  158  mv ps4_fifa14.jpg Ps4
+  159  mv covers Ps4
+  160  cd ..
+  161  mv covers Documents
+  162  ls
+  163  cd ..
+  164  cd Documents
+  165  cd ESSCA
+  166  cd 3iem 
+  167  cd 3Ièm\ 
+  168  cd Programmation\ approfondie
+  169  cd Images
+  170  mv Ps4 ./Images/covers
+  171  Ps4 ./Images
+  172  Ps4.jpg ./Images
+  173  ls
+  174  mv Ps4.jpg ./Images
+  175  mv Fifa.jpg/ ./covers/
+  176  mv Fifa.jpg/ ./covers
+  177  mv Fifa.jpg ./covers
+  178  mv Fifa.jpg /covers
+  179  mv Fifa.jpg /covers/
+  180  ls
+  181  cd ..
+  182  ls
+  183  git clone https://github.com/LaurentEstienne/Piscine-Shell-Essca.git
+  184  clear
+  185  clear
+  186  git clone https://github.com/LaurentEstienne/Piscine-Shell-Essca.git
+  187  clear
+  188  git clone https://github.com/LaurentEstienne/Piscine-Shell-Essca.git
+  189  ls
+  190  cd Piscine-Shell-Essca
+  191  ls
+  192  mkdir ex00
+  193  cd ex00
+  194  mv ../../covers ./
+  195  ls
+  196  pwd
+  197  ls
+  198  cd covers
+  199  ls
+  200  ls
+  201  ls Constructeurs
+  202  clear
+  203  cd ..
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd ..
+  208  ls
+  209  cd Images
+  210  ls
+  211  mkdir PS4
+  212  mv playstation_4.assassinscreedodyssey.jpg ./PS4
+  213  ls
+  214  mv Fifa.jpg ./PS4
+  215  mv playstation_4.watchdogs2.jpg ./PS4
+  216  mkdir PS5
+  217  mv playstation_5.farcry6.jpg ./PS5
+  218  mkdir Gamecube
+  219  mv gc_supermariosunshine.jpg ./Gamecube
+  220  mkdir Game Boy
+  221  mv gameboy.pokmonred.jpg ./Gamecube
+  222  mkdir Game_Boy
+  223  mv gameboy.pokmonred.jpg ./Game_Boy
+  224  mv gb_pokemonblue_eu.jpg ./Game_Boy
+  225  mkdir Xbox
+  226  mv xbox_deadtorights.jpg ./Xbox
+  227  mv xbox_halo_2.jpg ./Xbox
+  228  mkdir Xbox_360
+  229  mv x360_callofduty4.jpg ./Xbox_360
+  230  mv x360_callofduty3
+  231  mv x360_callfoduty3.jpg ./Xbox_360
+  232  mkdir Dreamcast
+  233  mv dc_jetsetradio_eu_front.jpg ./Dreamcast
+  234  mv dc_shenmue_eu.jpg ./Dreamcast
+  235  mv PS4 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sony/
+  236  mv PS5 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sony/consoles/Ps5
+  237  mv Gamecube ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  238  mv Game_Boy ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Nintendo
+  239  mv Xbox/ ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  240  mv Xbox_360 ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Microsoft
+  241  mv Dreamcast ../Piscine-Shell-Essca/ex00/covers/Constructeurs/Sega
+  242  cd ..
+  243  cd Piscine-Shell-Essca
+  244  Touch bonjour.sh
+  245  history ~ > Command.txt
+  246  history > Command.txt
+  247  clear
+  248  ls
+  249  mkdir ex01
+  250  mv Command.txt ./ex00
+  251  ls
+  252  cd ex00
+  253  ls
+  254  cat Command.txt
+  255  man history
+  256  history -200
+  257  clear
